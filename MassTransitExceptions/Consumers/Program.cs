@@ -42,7 +42,9 @@ namespace Consumers
                     e.Consumer<EventConsumer>(cfg => {
                         cfg.UseMessageRetry(r =>
                         {
-                            r.Exponential(2, TimeSpan.FromSeconds(1), TimeSpan.FromSeconds(4), TimeSpan.FromSeconds(2));
+                            //r.Exponential(2, TimeSpan.FromSeconds(1), TimeSpan.FromSeconds(4), TimeSpan.FromSeconds(2));
+
+                            r.Interval(3, TimeSpan.FromSeconds(3));
 
                             // select specified exception with some condition
                             r.Handle<Exception>();
@@ -54,16 +56,18 @@ namespace Consumers
 
                             // có nghĩa là thời gian mà nó sẽ đếm lỗi và đưa ra tỉ lệ %, sau khi hết thgian này nó sẽ so sánh
                             // với TripThreshold xem thử đủ điều kiện chưa
-                            cb.TrackingPeriod = TimeSpan.FromSeconds(10);
+                            cb.TrackingPeriod = TimeSpan.FromMinutes(2);
 
                             // khoảng 10%
                             cb.TripThreshold = 10;
 
                             // đặt giới hạn message để đánh giá, phục vụ cho Tripthreshold
-                            cb.ActiveThreshold = 1;
+                            cb.ActiveThreshold = 2;
 
                             // thời gian hoãn, từ chối truy cập
                             cb.ResetInterval = TimeSpan.FromMinutes(20);
+
+
                         });
 
                     });
@@ -96,11 +100,11 @@ namespace Consumers
         {
             public async Task Consume(ConsumeContext<ValueEntered> context)
             {
-                Console.WriteLine("Consumer Executing .....");
+                Console.WriteLine($"Consuming or Retry {context.GetRetryAttempt()} times .....");
                 await Task.Run(() =>
                 {
                     Random rd = new Random();
-                    if (rd.Next(1, 10) < 9)
+                    if (rd.Next(1, 10) < 11)
                         throw new Exception("Fake Exception");
                     Console.WriteLine("Value: {0}", context.Message.Value);
                 });
@@ -113,7 +117,7 @@ namespace Consumers
             {
                 return Task.Run(() =>
                 {
-                    Console.WriteLine("Retry finish and throw a new Exception");
+                    Console.WriteLine("Retry finish and throw a new Exception -- GO TO FAULT");
                     Console.WriteLine($"{context.Message.Message.Value}");
                 });
             }
