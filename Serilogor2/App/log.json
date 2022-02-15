@@ -1,0 +1,745 @@
+{
+  "@t": "2022-02-15T13:57:04.3380763Z",
+  "@mt": "Starting web host ...",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:12.1878168Z",
+  "@mt": "In my bowl I have {Fruit}",
+  "Fruit": {
+    "Apple": 1,
+    "Pear": 5
+  },
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000002",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:12.2139065Z",
+  "@mt": "In my bowl I have {Fruit}",
+  "Fruit": {
+    "Apple": 1,
+    "Pear": 5
+  },
+  "SourceContext": "App.Controllers.WeatherForecastController",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000002",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:12.2218105Z",
+  "@mt": "Ok chua",
+  "SourceContext": "App.Controllers.WeatherForecastController",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000002",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:12.2289722Z",
+  "@mt": "Have a JobId",
+  "JobId": 255,
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000002",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:12.2340312Z",
+  "@mt": "Con ha mat le",
+  "SourceContext": "App.Controllers.WeatherForecastController",
+  "ABC": "Chicken 123",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000002",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:12.2378105Z",
+  "@mt": "I am {age}",
+  "age": 20,
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000002",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:12.2454463Z",
+  "@mt": "abc",
+  "SourceContext": "App.Controllers.WeatherForecastController",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000002",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:12.2533419Z",
+  "@mt": "Processing {@SensorInput}",
+  "SensorInput": {
+    "Latitude": 25,
+    "Longitude": 134
+  },
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000002",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:12.2628239Z",
+  "@mt": "Processing {SensorInput}",
+  "SensorInput": "{ Latitude = 25, Longitude = 134 }",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000002",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:12.2692484Z",
+  "@mt": "I have a player: {@player}",
+  "player": {
+    "Ten": "Tung",
+    "Tuoi": 10
+  },
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000002",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:12.2918955Z",
+  "@mt": "HTTP {RequestMethod} {RequestPath} responded {StatusCode} in {Elapsed:0.0000} ms",
+  "@r": [ "149.3084" ],
+  "x-request-id": "Alo alo 1234 Alo alo",
+  "RequestMethod": "GET",
+  "RequestPath": "/WeatherForecast",
+  "StatusCode": 200,
+  "Elapsed": 149.3084,
+  "SourceContext": "Serilog.AspNetCore.RequestLoggingMiddleware",
+  "UserName": "Tung 123",
+  "RequestId": "0HMFGHC6VP848:00000002",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:12.8422587Z",
+  "@mt": "In my bowl I have {Fruit}",
+  "Fruit": {
+    "Apple": 1,
+    "Pear": 5
+  },
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000003",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:12.8879649Z",
+  "@mt": "In my bowl I have {Fruit}",
+  "Fruit": {
+    "Apple": 1,
+    "Pear": 5
+  },
+  "SourceContext": "App.Controllers.WeatherForecastController",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000003",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:12.9251715Z",
+  "@mt": "Ok chua",
+  "SourceContext": "App.Controllers.WeatherForecastController",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000003",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:12.9525956Z",
+  "@mt": "Have a JobId",
+  "JobId": 255,
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000003",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:12.9596269Z",
+  "@mt": "Con ha mat le",
+  "SourceContext": "App.Controllers.WeatherForecastController",
+  "ABC": "Chicken 123",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000003",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:12.9688338Z",
+  "@mt": "I am {age}",
+  "age": 20,
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000003",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:12.9755069Z",
+  "@mt": "abc",
+  "SourceContext": "App.Controllers.WeatherForecastController",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000003",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:12.9809996Z",
+  "@mt": "Processing {@SensorInput}",
+  "SensorInput": {
+    "Latitude": 25,
+    "Longitude": 134
+  },
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000003",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:12.9851978Z",
+  "@mt": "Processing {SensorInput}",
+  "SensorInput": "{ Latitude = 25, Longitude = 134 }",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000003",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:12.9912658Z",
+  "@mt": "I have a player: {@player}",
+  "player": {
+    "Ten": "Tung",
+    "Tuoi": 10
+  },
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000003",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:12.9993977Z",
+  "@mt": "HTTP {RequestMethod} {RequestPath} responded {StatusCode} in {Elapsed:0.0000} ms",
+  "@r": [ "157.7436" ],
+  "x-request-id": "Alo alo 1234 Alo alo",
+  "RequestMethod": "GET",
+  "RequestPath": "/WeatherForecast",
+  "StatusCode": 200,
+  "Elapsed": 157.7436,
+  "SourceContext": "Serilog.AspNetCore.RequestLoggingMiddleware",
+  "UserName": "Tung 123",
+  "RequestId": "0HMFGHC6VP848:00000003",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:13.2640838Z",
+  "@mt": "In my bowl I have {Fruit}",
+  "Fruit": {
+    "Apple": 1,
+    "Pear": 5
+  },
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000004",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:13.2934949Z",
+  "@mt": "In my bowl I have {Fruit}",
+  "Fruit": {
+    "Apple": 1,
+    "Pear": 5
+  },
+  "SourceContext": "App.Controllers.WeatherForecastController",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000004",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:13.3027268Z",
+  "@mt": "Ok chua",
+  "SourceContext": "App.Controllers.WeatherForecastController",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000004",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:13.3107949Z",
+  "@mt": "Have a JobId",
+  "JobId": 255,
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000004",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:13.3146069Z",
+  "@mt": "Con ha mat le",
+  "SourceContext": "App.Controllers.WeatherForecastController",
+  "ABC": "Chicken 123",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000004",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:13.3208104Z",
+  "@mt": "I am {age}",
+  "age": 20,
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000004",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:13.3270868Z",
+  "@mt": "abc",
+  "SourceContext": "App.Controllers.WeatherForecastController",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000004",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:13.3316063Z",
+  "@mt": "Processing {@SensorInput}",
+  "SensorInput": {
+    "Latitude": 25,
+    "Longitude": 134
+  },
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000004",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:13.3390508Z",
+  "@mt": "Processing {SensorInput}",
+  "SensorInput": "{ Latitude = 25, Longitude = 134 }",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000004",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:13.3450167Z",
+  "@mt": "I have a player: {@player}",
+  "player": {
+    "Ten": "Tung",
+    "Tuoi": 10
+  },
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000004",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:13.3511450Z",
+  "@mt": "HTTP {RequestMethod} {RequestPath} responded {StatusCode} in {Elapsed:0.0000} ms",
+  "@r": [ "87.1745" ],
+  "x-request-id": "Alo alo 1234 Alo alo",
+  "RequestMethod": "GET",
+  "RequestPath": "/WeatherForecast",
+  "StatusCode": 200,
+  "Elapsed": 87.1745,
+  "SourceContext": "Serilog.AspNetCore.RequestLoggingMiddleware",
+  "UserName": "Tung 123",
+  "RequestId": "0HMFGHC6VP848:00000004",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:13.6854398Z",
+  "@mt": "In my bowl I have {Fruit}",
+  "Fruit": {
+    "Apple": 1,
+    "Pear": 5
+  },
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000005",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:13.7277623Z",
+  "@mt": "In my bowl I have {Fruit}",
+  "Fruit": {
+    "Apple": 1,
+    "Pear": 5
+  },
+  "SourceContext": "App.Controllers.WeatherForecastController",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000005",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:13.7708138Z",
+  "@mt": "Ok chua",
+  "SourceContext": "App.Controllers.WeatherForecastController",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000005",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:13.7790944Z",
+  "@mt": "Have a JobId",
+  "JobId": 255,
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000005",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:13.7855346Z",
+  "@mt": "Con ha mat le",
+  "SourceContext": "App.Controllers.WeatherForecastController",
+  "ABC": "Chicken 123",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000005",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:13.7945160Z",
+  "@mt": "I am {age}",
+  "age": 20,
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000005",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:13.8010193Z",
+  "@mt": "abc",
+  "SourceContext": "App.Controllers.WeatherForecastController",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000005",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:13.8077561Z",
+  "@mt": "Processing {@SensorInput}",
+  "SensorInput": {
+    "Latitude": 25,
+    "Longitude": 134
+  },
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000005",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:13.8168544Z",
+  "@mt": "Processing {SensorInput}",
+  "SensorInput": "{ Latitude = 25, Longitude = 134 }",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000005",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:13.8205148Z",
+  "@mt": "I have a player: {@player}",
+  "player": {
+    "Ten": "Tung",
+    "Tuoi": 10
+  },
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000005",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:13.8314869Z",
+  "@mt": "HTTP {RequestMethod} {RequestPath} responded {StatusCode} in {Elapsed:0.0000} ms",
+  "@r": [ "146.2284" ],
+  "x-request-id": "Alo alo 1234 Alo alo",
+  "RequestMethod": "GET",
+  "RequestPath": "/WeatherForecast",
+  "StatusCode": 200,
+  "Elapsed": 146.2284,
+  "SourceContext": "Serilog.AspNetCore.RequestLoggingMiddleware",
+  "UserName": "Tung 123",
+  "RequestId": "0HMFGHC6VP848:00000005",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:14.1106980Z",
+  "@mt": "In my bowl I have {Fruit}",
+  "Fruit": {
+    "Apple": 1,
+    "Pear": 5
+  },
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000006",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:14.1611361Z",
+  "@mt": "In my bowl I have {Fruit}",
+  "Fruit": {
+    "Apple": 1,
+    "Pear": 5
+  },
+  "SourceContext": "App.Controllers.WeatherForecastController",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000006",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:14.2079371Z",
+  "@mt": "Ok chua",
+  "SourceContext": "App.Controllers.WeatherForecastController",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000006",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:14.2427073Z",
+  "@mt": "Have a JobId",
+  "JobId": 255,
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000006",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:14.2895574Z",
+  "@mt": "Con ha mat le",
+  "SourceContext": "App.Controllers.WeatherForecastController",
+  "ABC": "Chicken 123",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000006",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:14.3270329Z",
+  "@mt": "I am {age}",
+  "age": 20,
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000006",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:14.3323602Z",
+  "@mt": "abc",
+  "SourceContext": "App.Controllers.WeatherForecastController",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000006",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:14.3363297Z",
+  "@mt": "Processing {@SensorInput}",
+  "SensorInput": {
+    "Latitude": 25,
+    "Longitude": 134
+  },
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000006",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:14.3468557Z",
+  "@mt": "Processing {SensorInput}",
+  "SensorInput": "{ Latitude = 25, Longitude = 134 }",
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000006",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:14.3505130Z",
+  "@mt": "I have a player: {@player}",
+  "player": {
+    "Ten": "Tung",
+    "Tuoi": 10
+  },
+  "x-request-id": "[Connection, keep-alive]",
+  "UserName": "Tung 123",
+  "ActionId": "39e6db1e-8d8d-4fc2-9ed7-5f67afa767cb",
+  "ActionName": "App.Controllers.WeatherForecastController.Get (App)",
+  "RequestId": "0HMFGHC6VP848:00000006",
+  "RequestPath": "/WeatherForecast",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+} {
+  "@t": "2022-02-15T13:57:14.3623182Z",
+  "@mt": "HTTP {RequestMethod} {RequestPath} responded {StatusCode} in {Elapsed:0.0000} ms",
+  "@r": [ "251.8081" ],
+  "x-request-id": "Alo alo 1234 Alo alo",
+  "RequestMethod": "GET",
+  "RequestPath": "/WeatherForecast",
+  "StatusCode": 200,
+  "Elapsed": 251.8081,
+  "SourceContext": "Serilog.AspNetCore.RequestLoggingMiddleware",
+  "UserName": "Tung 123",
+  "RequestId": "0HMFGHC6VP848:00000006",
+  "ConnectionId": "0HMFGHC6VP848",
+  "MachineName": "LAPTOP-A3I50TBS"
+}
